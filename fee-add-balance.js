@@ -47,7 +47,7 @@ import fetch from 'node-fetch'
 
     transaction.sign(keypair)
 
-    console.log("Stopping here, if you really want to send XLM to this turret uncomment this line");
+    console.log("Stopping here, if you really want to send XLM to this turret remove the return statement and this log statement");
     return;
 
     // Send the transaction to the turret (NOT the Stellar network! the Turret will submit it itself)
