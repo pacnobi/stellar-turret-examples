@@ -25,3 +25,8 @@ Now that you have a balance on the turret, you can check what your balance is:
 ```
 $ node fee-check-balance.js
 ```
+
+## Thanks to
+
+ * [kalepail](https://nft.kalepail.com/) for an example script that builds the authorization XdrToken
+ * Stellar for running the docsprint
